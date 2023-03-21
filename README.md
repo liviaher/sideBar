@@ -1,2 +1,4 @@
 # sideBar
-sidebar para meu tcc
+Componente para navegação do site
+
+Esse projeto foi feito para o meu TCC do curso tecnico.
